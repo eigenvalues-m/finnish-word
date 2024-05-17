@@ -1,0 +1,72 @@
+# Kappale 3 Pedro soittaa Mikolle
+
+- sää, vuodenajat ja kuukaudet
+- adjektiiveja
+- ääntäminen: kaksi vokaali
+- genetiivi
+- t-monikko
+- k-p-t-vaihtelu: verbityyppi 1
+- Puhutaan: Pedro ilmoittautuu kurssille
+
+## Sanasto
+
+- soittaa
+- ystävä
+- videopuhelu
+- olla töissä
+- jo: already
+- ei vielä: not yet
+- vasta: only
+- puoli: adj, half
+- Ai niin, totta
+- sää
+- aika: noun, time
+  - kerta
+- huono: bad
+- Sataa kaatamalla: it is pouring
+- On tuulista: it is windy
+- Aijaa
+- Aurinko paistaa
+- tosi: adj, true
+  - totta
+  - oikea
+  - tarkka
+- lämmin
+- aste: degree
+- yö
+- niin: so
+- valoisa: bright
+- että: that
+- vaikea: adj, difficult
+- nukkua
+- kesä
+- nauttia
+- marraskuu
+- pimeä
+- No joo, niin kuulemma
+- onko sinulla
+- työpaikka
+- etsiä töitä: look for a job
+- helppo: adj, easy
+- Hieno juttu: good thing
+- millainen
+- mukava
+- sama
+- maanantaisin
+- keskiviikkoisin
+- torstaisin
+- kerta
+- Ohhoh
+- yhtä hyvin kuin: as well as
+- Niin varmaan
+- vielä: still
+- opiskelija-asunto
+- muuttaa: verbi, change
+- syyskuu
+- meidän
+- uusi
+- Kuulostaa hyvältä: sounds good
+- minun täytyy
+- lähteä töihin: go to work
+- Terveisiä Hannalle
+- kertoa: verbi, tell
