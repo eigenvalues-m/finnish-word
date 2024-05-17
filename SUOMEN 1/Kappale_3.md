@@ -70,3 +70,28 @@
 - lähteä töihin: go to work
 - Terveisiä Hannalle
 - kertoa: verbi, tell
+
+## Pikkusanat
+
+- jo: already, Oletko jo töissä?
+- ei vielä: not yet, En ole vielä töissä.
+- vasta: only, Kello on vasta puoli kahdeksan.
+  - vain
+- kohta:
+- aika: Sää on kyllä aika huono
+- myös: Tänäänkin sataa kaatamalla
+- tosi: Täällä on tosi lämmin
+- niin: so, Yöllä on niin valoisaa, että on vaikea nukkua.
+- että: that
+- melkein: almost, Marraskuussa on pimeää melkein koko ajan.
+- vielä: Asutteko te vielä Hannan opiskelija-asunnossa?
+
+## Fraaseja
+
+- Aijaa: #Sää on täällä nyt aika huono. #Aijaa
+- Hieno juttu: #Olen nyt suomen kurssilla. #Hieno juttu
+- Niin varmaan: #Kohta sinä puhut suomea yhtä hyvin kuin minä. #Niin varmaan
+- Niin kuulemma: #Nauti nyt, marraskuussa on pimeää melkein koko ajan. #Niin kuulemma
+- Ai niin, totta: #Kello on täällä vasta puoli kahdeksan. #Ai niin, totta
+- Kuulostaa hyvältä: #Me muutamme syyskuussa. #Kuulostaa hyvältä
+- Terveisiä...lle: #Terveisiä Hannalle. #Minä kerron

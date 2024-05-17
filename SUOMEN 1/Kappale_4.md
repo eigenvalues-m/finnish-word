@@ -1,0 +1,54 @@
+# Kappale 4 Minä
+
+- perhe
+- ulkonäko
+- ääntäminen: sanapaino
+- partitiivi
+- Minulla on...
+- Genetiivi + kanssa
+- pitää + sta/stä
+- Puhutaan: Vaatekaupassa
+- vaatteet
+
+## sanasto
+
+- naimisissa
+- Genetiivi + kanssa
+- rakastaa + Partitiivi
+- meillä on
+- lapsi
+- söpö
+- 4-vuotias
+- tyttö
+- bussikuski: bus driver
+- minulla ei ole
+- etsiä + Partitiivi
+- hoikka: slim
+- pitää + sta/stä
+- urheilu: sport
+- rauhallinen: quiet
+- ehkä: adv, perhaps
+- ujo: adj, shy
+- eronnut: adj, divorced
+- sinkku: noun, single
+- perhe
+  - suku:
+- pikkusisko
+- isoveli:
+- täti: aunt
+- setä: uncle
+- serkku: cousin
+- helsinkiläinen
+- talo: house
+- kerros: floor
+- huone
+- keittiö
+- puhelias: talkative
+- iloinen: cheerful
+- musta: adj, black
+- kihara: adj, curly
+- tumma: adj, dark
+- tyttöystävä
+- kauppa
+- meillä ei ole
+- pyörä: bike

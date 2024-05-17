@@ -1,0 +1,60 @@
+# Kappale 5 Meidän tavallinen päivä
+
+- päivän kulku
+- kello
+- verbityyppit 1-5
+- verbi + verbi
+- verbi + partitiivi
+- Puhutaan: Aamupalapöydässä
+
+## Sanasto
+
+- herätä: wake up
+- herätyskello: alarm clock
+- soida
+- käydä suihkussa
+- pukea päälle
+- sen jälkeen
+- tehdä
+- aamupala
+- lukea
+- lehti
+- yhdessä: adv, together
+- syödä
+- yleensä: adv, usually
+- muroja: cereal
+- leipä
+- ei mitään
+- juoda
+- vain
+- kahvi
+- lounasravintola
+- kokki
+- tehdä ruokaa
+- työkaveri
+- kävellä
+- päiväkoti
+- apteekki
+- koulu
+- kahdelta, kello kaksi
+- kaveri
+- pelata
+- jalkapallo
+- iltaisin
+- usein: often
+- jotain: something
+- uimahalli: swimming hall
+- uida
+- tunti
+- kenkä
+- tarvita: need
+- valita: choose, select
+- sandaalit: sandals
+- haluta
+- katsoa
+- väsynyt
+- kirja
+- yhdeksältä, kello yhdeksän
+- pestä hampaat: brush teeth
+- sanoa
+- mennä nukkumaan
