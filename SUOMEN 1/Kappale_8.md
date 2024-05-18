@@ -1,0 +1,55 @@
+# Kappale 8 Onnea uuteen kotiin
+
+- ruoka ja juoma
+- partitiivi: ainesanat
+- järjestysluvut
+- päiväys
+- postpositiot
+- Puhutaan: Alex ei löydä perille
+
+## Sanasto
+
+- onni
+- tupaantuliaiset
+- tulla kylään
+- imuroida
+- sillä aikaa
+- ostoslista
+- tehdään
+- pastasalaatti
+- lihapulla
+- tehdään vaan
+- leipoa
+- ihana
+- sitruunakakku
+- juotava
+- vieras
+- saapua
+- katsella
+- meistä
+- avara
+- genetiivi + ääressä
+- aina
+- kotitehtävä
+- sama juttu
+- läppäri, kannettava tietokone
+- seisoa
+- genetiivi + vieressä
+- keskustella
+- salaatti
+- niin minustakin
+- valkosipuli
+- chili
+- öljy
+- siksi
+- maistua
+- tulinen
+- kai
+- liian
+- juuri
+- sopiva
+- näyttää
+- toivottavasti
+- valmis
+- tulkaa ottamaan
+- kakku

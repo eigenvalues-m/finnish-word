@@ -1,0 +1,64 @@
+# Kappale 9 Ensimmäinen työpäivä
+
+- työ ja ammatit
+- objekti
+- sanatyyppi
+- kenelle/keneltä
+- k-p-t-vaihtelu: verbityyppit 3 ja 4
+- persoonapronominien taivutus
+- Puhutaan: Lounaalla
+
+## Sanasto
+
+- työpäivä
+- oy, osakeyhtiö
+- hermostunut
+- pomo
+- yritys
+- pääovi
+- kulkukortti
+- toinen
+- toimisto
+- no niin
+- näyttää
+- työpiste
+- laittaa
+- takki
+- tavara
+- avain
+- koodilukko
+- hyvä juttu
+- esitellä
+- tila
+- myöhemmin
+- tavata
+- tiimi
+- työntekijä
+- henkilö
+- kuulua
+- yhteensä
+- paisti
+- palaveri
+- kertoa
+- kokous
+- projekti
+- selvä
+- jatketaan
+- jatkaa
+- it-osasto
+- kysyä neuvoa
+- jokin
+- ongelma
+- saada
+- käyttäjätunnus
+- salasana
+- käytävä
+- neuvotteluhuone
+- oma
+- eväät
+- olla mukana
+- lounaspaikka
+- tietää
+- suoraan
+- hakea
+- nopeasti
