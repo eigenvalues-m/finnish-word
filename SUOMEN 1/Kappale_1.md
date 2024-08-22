@@ -8,6 +8,7 @@
 - ääntäminen: vokaalit
 - vokaaliharmonia
 - olla-verbi
+- test
 
 ## Sanasto
 
